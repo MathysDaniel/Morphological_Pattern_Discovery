@@ -62,9 +62,9 @@ The algorithm detects repetitive patterns and metric structures through morpholo
 
 These mathematical tools allow for:
 
-    The detection of recurring rhythmic or melodic structures.
+    The detection of repeated musical patterns.
 
-    The estimation of local and global time signatures.
+    The estimation of local time signatures.
 
     The exploration of polymetric phenomena within complex compositions.
 
