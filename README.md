@@ -17,7 +17,7 @@ This repository has two goals:
 - **Moreno Andreatta** – IRMA, University of Strasbourg  : andreatta@math.unistra.fr
 - **Isabelle Bloch** – LIP6, Sorbonne University  : isabelle.bloch@sorbonne-universite.fr
 
-This project is based on the work developed by **Paul Lascabettes** in his PhD thesis:  
+This study is based on the work developed by **Paul Lascabettes** in his PhD thesis:  
 ➡️ [https://hal.science/tel-04480227](https://hal.science/tel-04480227)
 
 ---
