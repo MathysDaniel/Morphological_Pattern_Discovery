@@ -1,4 +1,4 @@
-# 🎵 Metric Recognition
+# 🎵 Rhythmic Signature Recognition
 
 This project aims to **detect the time signature of musical pieces** by using **pattern detection tools**.  
 To achieve this, a **new algorithm** has been proposed based on **mathematical morphology**, a framework originally developed for image processing.  
@@ -40,8 +40,8 @@ The repository is organized into two main parts:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Metric_Recognition.git
-   cd Metric_Recognition
+   git clone https://github.com/<your-username>/Rhythmic_Signature_Recognition.git
+   cd Rhythmic_Signature_Recognition
 
 2. **Install the dependencies**
     ```bash
