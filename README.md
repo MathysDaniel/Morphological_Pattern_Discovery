@@ -12,7 +12,7 @@ This repository has two goals:
 
 ## 👥 Team
 
-- **Mathys Daniel** (Author) – LIP6, Sorbonne University & IRMA, Sorbonne University  : mathys.daniel@ircam.fr
+- **Mathys Daniel** (Author) – LIP6, Sorbonne University & IRMA, University of Strasbourg : mathys.daniel@ircam.fr
 - **Paul Lascabettes** – IRMA, University of Strasbourg  : paul.lascabettes@ircam.fr
 - **Moreno Andreatta** – IRMA, University of Strasbourg  : andreatta@math.unistra.fr
 - **Isabelle Bloch** – LIP6, Sorbonne University  : isabelle.bloch@sorbonne-universite.fr
