@@ -12,10 +12,10 @@ This repository has two goals:
 
 ## 👥 Team
 
-- **Mathys Daniel** (Author) – LIP6, Sorbonne University & IRMA, Sorbonne University  
-- **Paul Lascabettes** – IRMA, University of Strasbourg  
-- **Moreno Andreatta** – IRMA, University of Strasbourg  
-- **Isabelle Bloch** – LIP6, Sorbonne University  
+- **Mathys Daniel** (Author) – LIP6, Sorbonne University & IRMA, Sorbonne University  : mathys.daniel@ircam.fr
+- **Paul Lascabettes** – IRMA, University of Strasbourg  : paul.lascabettes@ircam.fr
+- **Moreno Andreatta** – IRMA, University of Strasbourg  : andreatta@math.unistra.fr
+- **Isabelle Bloch** – LIP6, Sorbonne University  : isabelle.bloch@sorbonne-universite.fr
 
 This project is based on the work developed by **Paul Lascabettes** in his PhD thesis:  
 ➡️ [https://hal.science/tel-04480227](https://hal.science/tel-04480227)
@@ -44,7 +44,7 @@ The repository is organized into two main parts:
    cd Metric_Recognition
 
 2. **Install the dependencies**
-
+    ```bash
     pip install -r requirements.txt
 
 3. **Run the notebook**
