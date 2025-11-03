@@ -1,4 +1,4 @@
-# 🎶 Pattern Detection and Polymetric Analysis of your OWN dataset
+# 🎶 Pattern Detection and Polymetric Analysis of any MIDI dataset
 
 This repository contains a easy-to-use notebook to permit you to **analyze any MIDI files dataset**, giving the patterns and the time-signature structure of the given pieces of music.
 
