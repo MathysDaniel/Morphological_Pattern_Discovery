@@ -1,14 +1,14 @@
-# 🎶 Pattern Detection and Polymetric Analysis of any MIDI dataset
+# 🎶 Pattern Detection and Polymeter Analysis of any MIDI dataset
 
-This repository contains a easy-to-use notebook to permit you to **analyze any MIDI files dataset**, giving the patterns and the time-signature structure of the given pieces of music.
+This repository contains a easy-to-use notebook to permit you to **analyze any MIDI files dataset**, providing some patterns and informations about the time-signature structure of the given pieces of music.
 
 ---
 
 ## 🔍 What This Project Does
 
-- Detects repetitive patterns in a MIDI dataset using an original morphological approch
-- Analyze them and interpretate the evolution of the time signatures evolution of given pieces of music
-- Provide visualization tools to observe those structures and make the musicologic interpretation easier
+- Detects repetitive patterns occurring at regular temporal intervals in a MIDI dataset using an original morphological approch
+- Analyze them and provides some informations about the evolution of the time signatures of given pieces of music
+- Provide visualization tools to observe those structures
 
 ---
 
