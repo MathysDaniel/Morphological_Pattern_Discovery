@@ -2,7 +2,7 @@
 
 ## 🔍 What This Project Does
 
-- Detects repetitive patterns at regular time intervals in a MIDI dataset using an original morphological approch
+- Detects repetitive patterns occuring at regular time intervals in a MIDI dataset using an original morphological approch
 - Analyze them and provide informations about the evolution of the time signatures evolution of given pieces of music
 - Provide visualization tools to observe those structures
 
