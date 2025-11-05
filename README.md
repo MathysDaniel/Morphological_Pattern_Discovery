@@ -1,10 +1,6 @@
-This project aims to **detect the time signature of musical pieces** by using **pattern detection tools**.  
-To achieve this, a **new algorithm** has been proposed based on **mathematical morphology**, a framework originally developed for image processing.  
-By adapting morphological operators to symbolic music data, this approach enables the extraction of **repetitive musical patterns** and aims to do recognition of **metric structures** within MIDI representations.
+# 🎵 Morphological Pattern Discovery
 
-# 🎵 Rhythmic Signature Discovery
-
-This project focuses on the **discovery of patterns and their lengths** in symbolic music data, providing insight into the **underlying metric organization** of musical pieces.  
+This project focuses on the **pattern discovery** in symbolic music data, providing insight into the **underlying metric organization** of musical pieces.  
 A **new algorithm** has been developed based on **mathematical morphology** (a framework originally designed for image processing) and adapted here for **symbolic music representation**.  
 By applying morphological operators (such as **erosion**) to MIDI data, the system can extract **repetitive musical patterns occurring at regular time intervals**, offering a computational approach to exploring rhythmic regularities.
 
@@ -21,6 +17,21 @@ This repository aims to make the developed algorithm and analysis tools **fully 
 
 This study is based on the work developed by **Paul Lascabettes** in his PhD thesis:  
 ➡️ [https://hal.science/tel-04480227](https://hal.science/tel-04480227)
+
+---
+
+## 🧠 Scientific Context
+
+This work bridges mathematical morphology and symbolic music analysis.
+The algorithm detects repetitive patterns occuring at regular intervals within point sets representing musical events (onsets, pitches) to prodive informations about the metric structure through morphological operations such as erosion and dilation .
+
+This approach enables:
+
+    The discovery of time-regular repetitive patterns
+    
+    The extraction of pattern lengths that provide information about local rhythmic regularities
+    
+    The exploration of metric organization and polymetric phenomena in complex musical contexts
 
 ---
 
@@ -56,19 +67,6 @@ The repository is organized into two main parts:
      Place your MIDI files inside a data/ folder (create one if needed).
 
      Follow the notebook instructions to analyze the piece.
-
-## 🧠 Scientific Context
-
-This work bridges mathematical morphology and symbolic music analysis.
-The algorithm detects repetitive patterns occuring at regular intervals within point sets representing musical events (onsets, pitches) to prodive informations about the metric structure through morphological operations such as erosion and dilation .
-
-This approach enables:
-
-    The discovery of time-regular repetitive patterns
-    
-    The extraction of pattern lengths that provide information about local rhythmic regularities
-    
-    The exploration of metric organization and polymetric phenomena in complex musical contexts
 
 
 ## 🪪 License
