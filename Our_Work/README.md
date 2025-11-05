@@ -1,18 +1,16 @@
-# 🎶 Polygondwanaland — Pattern Detection and Polymetric Analysis
+# 🎶 Polygondwanaland — Pattern Detection and Polymeter Analysis
 
 ## 🔍 What This Project Does
 
-- Detects repetitive patterns in a MIDI dataset using an original morphological approch
-- Analyze them and interpretate the evolution of the time signatures evolution of given pieces of music
-- Provide visualization tools to observe those structures and make the musicologic interpretation easier
+- Detects repetitive patterns at regular time intervals in a MIDI dataset using an original morphological approch
+- Analyze them and provide informations about the evolution of the time signatures evolution of given pieces of music
+- Provide visualization tools to observe those structures
 
 ---
 
-This repository contains all the code developed for the **musical pattern and polymetric analysis** of *Polygondwanaland* by **King Gizzard & the Lizard Wizard**.
+This repository contains all the code developed for the **musical pattern and polymetrer analysis** of *Polygondwanaland* by **King Gizzard & the Lizard Wizard**.
 
-It also includes a set of **original tools** for:
-- 📊 **Statistical analysis** of musical datasets  
-- 🎼 **Visualization** of the internal structure and rhythmic patterns of a musical piece
+It also includes a set of **original visualizations** of the internal rhythmic structure of a musical piece.
 
 ---
 
