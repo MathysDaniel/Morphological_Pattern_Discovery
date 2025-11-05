@@ -6,7 +6,7 @@ This repository contains a easy-to-use notebook to permit you to **analyze any M
 
 ## 🔍 What This Project Does
 
-- Detects repetitive patterns occurring at regular temporal intervals in a MIDI dataset using an original morphological approch
+- Detects repetitive patterns occurring at regular temporal intervals in a MIDI dataset using an original morphological approach
 - Analyze them and provides some informations about the evolution of the time signatures of given pieces of music
 - Provide visualization tools to observe those structures
 
