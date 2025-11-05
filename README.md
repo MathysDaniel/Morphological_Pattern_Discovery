@@ -1,19 +1,21 @@
-# 🎵 Rhythmic Signature Recognition
-
 This project aims to **detect the time signature of musical pieces** by using **pattern detection tools**.  
 To achieve this, a **new algorithm** has been proposed based on **mathematical morphology**, a framework originally developed for image processing.  
 By adapting morphological operators to symbolic music data, this approach enables the extraction of **repetitive musical patterns** and aims to do recognition of **metric structures** within MIDI representations.
 
-This repository has two goals:
-1. To make the developed algorithm accessible and reusable.
-2. To provide the complete code and analysis tools used in this research for transparency and reproducibility.
+# 🎵 Rhythmic Signature Discovery
+
+This project focuses on the **discovery of patterns and their lengths** in symbolic music data, providing insight into the **underlying metric organization** of musical pieces.  
+A **new algorithm** has been developed based on **mathematical morphology** (a framework originally designed for image processing) and adapted here for **symbolic music representation**.  
+By applying morphological operators (such as **erosion**) to MIDI data, the system can extract **repetitive musical patterns occurring at regular time intervals**, offering a computational approach to exploring rhythmic regularities.
+
+This repository aims to make the developed algorithm and analysis tools **fully available for transparency and reproducibility of our results**.
 
 ---
 
 ## 👥 Team
 
 - **Mathys Daniel** (Author) – LIP6, Sorbonne University & IRMA, University of Strasbourg : mathys.daniel@ircam.fr
-- **Paul Lascabettes** – IRMA, University of Strasbourg  : paul.lascabettes@ircam.fr
+- **Paul Lascabettes** – IRMA, University of Strasbourg  : lascabettes@math.unistra.fr
 - **Moreno Andreatta** – IRMA, University of Strasbourg  : andreatta@math.unistra.fr
 - **Isabelle Bloch** – LIP6, Sorbonne University  : isabelle.bloch@sorbonne-universite.fr
 
@@ -28,7 +30,7 @@ The repository is organized into two main parts:
 
 - **`Analyze_pieces_of_music/`**  
   This folder provides a **user-friendly version** of the algorithm.  
-  It allows users to analyze any musical piece (as long as a MIDI version is available) using the rhythmic signature recognition algorithm.
+  It allows users to analyze any musical piece (as long as a MIDI version is available) using the pattern discovery algorithm.
 
 - **`Our_Work/`**  
   This folder contains the **complete research code** used to generate the results presented in our study.  
@@ -58,15 +60,16 @@ The repository is organized into two main parts:
 ## 🧠 Scientific Context
 
 This work bridges mathematical morphology and symbolic music analysis.
-The algorithm detects repetitive patterns and metric structures through morphological operations such as erosion and dilation applied to point sets representing musical events (onsets, pitches).
+The algorithm detects repetitive patterns occuring at regular intervals within point sets representing musical events (onsets, pitches) to prodive informations about the metric structure through morphological operations such as erosion and dilation .
 
-These mathematical tools allow for:
+This approach enables:
 
-    The detection of repeated musical patterns.
+    The discovery of time-regular repetitive patterns
+    
+    The extraction of pattern lengths that provide information about local rhythmic regularities
+    
+    The exploration of metric organization and polymetric phenomena in complex musical contexts
 
-    The estimation of local time signatures.
-
-    The exploration of polymetric phenomena within complex compositions.
 
 ## 🪪 License
 
