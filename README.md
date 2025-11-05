@@ -1,4 +1,4 @@
-# 🎵 Morphological Pattern Discovery
+# 🎵 Musical Pattern Discovery through Morphological Morphology and Structure Representation
 
 This project focuses on the **pattern discovery** in symbolic music data, providing insight into the **underlying metric organization** of musical pieces.  
 A **new algorithm** has been developed based on **mathematical morphology** (a framework originally designed for image processing) and adapted here for **symbolic music representation**.  
